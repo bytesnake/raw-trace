@@ -1,0 +1,21 @@
+{
+  "name": "raw-trace",
+  "version": "0.2.1",
+  "description": "A native traceroute implementation",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com/bytesnake/raw-trace"
+  },
+  "dependencies": {
+     "raw-socket": "~1.2.2"
+  },
+  "author": "bytesnake <byteschlange@googlemail.com> (http://www.germandev.com/)",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/bytesnake/raw-trace/issues"
+  }
+}
